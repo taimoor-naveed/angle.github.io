@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.app {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.label-input {
+    display: flex;
+    justify-content: space-between;
+}
+.container {
+    background-color: rgba(0, 201, 0, 0.295);
+}
