@@ -1,3 +1,8 @@
+function onBodyLoad() {
+    const app = document.getElementsByClassName('app')[0];
+    app.style.height = `${window.innerHeight}px`;
+}
+
 function onSubmit(event) {
     event.preventDefault();
 
