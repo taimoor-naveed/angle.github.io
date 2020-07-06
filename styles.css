@@ -18,3 +18,11 @@ body {
 .container {
     background-color: rgba(0, 201, 0, 0.295);
 }
+
+input {
+    flex: 1;
+}
+
+label {
+    felx
+}
